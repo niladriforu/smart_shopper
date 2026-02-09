@@ -82,7 +82,7 @@ This document outlines the complete plan for creating and deploying a Databricks
    ```
    - Enter workspace URL
    - Enter access token
-4. Verify: `databricks workspace ls`
+4. Verify: `databricks workspace list /` (lists root directory to verify connection)
 
 ### Step 1.3: Set Up Environment Variables
 
