@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Databricks token
+databricks_token
+
 # Distribution / packaging
 .Python
 build/
@@ -94,7 +97,6 @@ data/processed/*
 # Logs
 *.log
 logs/
-
 # Temporary files
 tmp/
 temp/
